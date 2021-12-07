@@ -1,0 +1,45 @@
+nav ul li{
+    
+    float: none !important;
+   
+}
+
+.tc{
+    height: 300px !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+
+}
+.imgblog{
+    min-width:  600px !important;
+}
+
+.animacion1{
+   width: 60%;
+min-width: 100px;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.alinear{
+    text-align: center;
+}
+.tajeta-carrusel{
+    padding-top: 2rem;
+}
+.tca{
+    min-height: 250px !important;
+}
+
+.parallax-container-h {
+    padding-bottom: 50px;
+    height: 100% !important;
+}
+.bajar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
